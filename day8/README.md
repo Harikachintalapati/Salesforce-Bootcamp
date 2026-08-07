@@ -43,17 +43,17 @@ It follows clean architecture principles using Trigger, Handler, and Service lay
 
 ## 📸 Screenshots
 
-![Deploy Success](screenshots/deploy.png)  
-![Application Service Code](screenshots/service.png)  
-![Trigger Code](screenshots/trigger.png)  
-![Query Output](screenshots/query.png)  
-![Debug Logs](screenshots/debug.png)  
-![Queueable Execution](screenshots/queueable.png)  
-![Future Method Execution](screenshots/future.png)  
-![Queueable Chaining](screenshots/chaining.png)  
-![Batch Apex Execution](screenshots/batch.png)  
-![Apex Jobs Status](screenshots/apexjobs.png)  
-![Scheduled Jobs](screenshots/scheduled.png)  
+## 📸 Screenshots
+
+![Deploy Success](day8/08_Queueable_Deploy_Success.png.png)
+![Apex Jobs Completed](day8/09_Apex_Jobs_Completed.png.png)
+![Queueable Debug Log](day8/10_Queueable_Debug_Log.png.png)
+![Future Method Debug Log](day8/11_Future_Method_Debug_Log.png.png)
+![Queueable Chaining](day8/13_Queueable_Chaining_Debug_Log.png.png)
+![Batch Apex Debug Log](day8/14_Batch_Apex_Debug_Log.png.png)
+![Batch Apex Completed](day8/15_Batch_Apex_Completed.png.png)
+![Apex Jobs Status](day8/16_Apex_Jobs_Status.png.png)
+![Scheduled Jobs](day8/17_Scheduled_Jobs.png.png) 
 
 ---
 
