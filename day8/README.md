@@ -45,6 +45,8 @@ It follows clean architecture principles using Trigger, Handler, and Service lay
 
 ## 📸 Screenshots
 
+## 📸 Screenshots
+
 ![Deploy Success](day8/08_Queueable_Deploy_Success.png.png)
 ![Apex Jobs Completed](day8/09_Apex_Jobs_Completed.png.png)
 ![Queueable Debug Log](day8/10_Queueable_Debug_Log.png.png)
@@ -53,8 +55,7 @@ It follows clean architecture principles using Trigger, Handler, and Service lay
 ![Batch Apex Debug Log](day8/14_Batch_Apex_Debug_Log.png.png)
 ![Batch Apex Completed](day8/15_Batch_Apex_Completed.png.png)
 ![Apex Jobs Status](day8/16_Apex_Jobs_Status.png.png)
-![Scheduled Jobs](day8/17_Scheduled_Jobs.png.png) 
-
+![Scheduled Jobs](day8/17_Scheduled_Jobs.png.png)
 ---
 
 ## ✅ Conclusion
